@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DWT LOCAL</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="auth0_client_id">RGrkXrY3USRc21h4coVOqmyA3582AB0K</string>
+    <string name="auth0_domain">liberty.eu.auth0.com</string>
+    <string name="username">Name: %1$s</string>
+    <string name="useremail">Email: %1$s</string>
+    <string name="userCountry">Country: %1$s</string>
+    <string name="edit_hint">Add the country…</string>
+    <string name="edit">Edit Profile</string>
+    <string name="save">Save Changes</string>
+    <string name="cancel">Cancel Changes</string>
+    <string name="login_again">Log In Again</string>
+
+    <string name="error_field_required">This field is required</string>
+</resources>

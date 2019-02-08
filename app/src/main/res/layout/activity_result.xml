@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="368dp"
+android:layout_height="495dp">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text="Total Scores"
+        android:textSize="24dp" />
+
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:text="Item" />
+            <TextView
+                android:text="Product" />
+            <TextView
+                android:text="Packaging" />
+            <TextView
+                android:text="Quality" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView android:text="1" />
+
+            <TextView android:text="10" />
+
+            <TextView android:text="12" />
+
+            <TextView android:text="13" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:text="2" />
+            <TextView
+                android:text="9" />
+            <TextView
+                android:text="8" />
+            <TextView
+                android:text="10" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:text="3" />
+            <TextView
+                android:text="12" />
+            <TextView
+                android:text="15" />
+            <TextView
+                android:text="13" />
+        </TableRow>
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:text="4" />
+            <TextView
+                android:text="15" />
+            <TextView
+                android:text="11" />
+            <TextView
+                android:text="14" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:text="5" />
+            <TextView
+                android:text="11" />
+            <TextView
+                android:text="12" />
+            <TextView
+                android:text="12" />
+
+        </TableRow>
+    </TableLayout>

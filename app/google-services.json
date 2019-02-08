@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "689170507693",
+    "firebase_url": "https://dw-trophy.firebaseio.com",
+    "project_id": "dw-trophy",
+    "storage_bucket": "dw-trophy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689170507693:android:6e10772eb7a310f5",
+        "android_client_info": {
+          "package_name": "uk.co.libertyapps.dwtlocal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689170507693-esh031qrt4hio0lo9hn42jatfgqvqgit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.co.libertyapps.dwtlocal",
+            "certificate_hash": "8e8849dd8c7d42788bc05ffc41b25a034f184dd3"
+          }
+        },
+        {
+          "client_id": "689170507693-0n8r32n6gho9qb6gr09as1m7epv5o8of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzA9iyDC8BQnHaFs3rwdBEhUYIo4CZjvc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689170507693-0n8r32n6gho9qb6gr09as1m7epv5o8of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
